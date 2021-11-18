@@ -1,0 +1,4 @@
+Link de Download: https://www.python.org/downloads/
+
+- Variaveis no python não nessecitam usar ; no final
+- Variaveis em são por padrão do tipo string
