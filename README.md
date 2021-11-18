@@ -1,2 +1,3 @@
 # Dio.PrimeiroRepositorio
- Desafio de projeto git/github
+
+Desafio didatico sobre git e github com o intuito de praticar sobre a criação de repositorios
